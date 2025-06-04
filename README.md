@@ -1,4 +1,4 @@
-# Book API
+# Book API (school project)
 
 REST API для управления коллекцией книг, построенный с использованием FastAPI и SQLite.
 
